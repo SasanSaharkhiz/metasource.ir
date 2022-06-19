@@ -1,0 +1,11 @@
+{
+  "use_cookies" : "We use cookies to give you the best user experience",
+  "message": "Hello",
+  "menu": {
+    "home": "Home"
+  },
+  "login": {
+    "username": "User Name",
+    "password": "Password"
+  }
+}

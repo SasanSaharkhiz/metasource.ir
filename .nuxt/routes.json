@@ -1,0 +1,100 @@
+[
+  {
+    "name": "about___fa",
+    "path": "/about",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_219ef3d9"
+  },
+  {
+    "name": "blog___fa",
+    "path": "/blog",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_0db63e86"
+  },
+  {
+    "name": "contact___fa",
+    "path": "/contact",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_382e35ec"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4156ce9e"
+  },
+  {
+    "name": "gallery___fa",
+    "path": "/gallery",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_94babfc4"
+  },
+  {
+    "name": "pricing___fa",
+    "path": "/pricing",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_dac522dc"
+  },
+  {
+    "name": "services___fa",
+    "path": "/services",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/services.vue",
+    "chunkName": "pages/services",
+    "_name": "_cae2497c"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_219ef3d9"
+  },
+  {
+    "name": "blog___en",
+    "path": "/en/blog",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_0db63e86"
+  },
+  {
+    "name": "contact___en",
+    "path": "/en/contact",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_382e35ec"
+  },
+  {
+    "name": "gallery___en",
+    "path": "/en/gallery",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_94babfc4"
+  },
+  {
+    "name": "pricing___en",
+    "path": "/en/pricing",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_dac522dc"
+  },
+  {
+    "name": "services___en",
+    "path": "/en/services",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/services.vue",
+    "chunkName": "pages/services",
+    "_name": "_cae2497c"
+  },
+  {
+    "name": "index___fa",
+    "path": "/",
+    "component": "/Users/sasan_saharkhiz/Sites/MetaSource/metasource.ir/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4156ce9e"
+  }
+]
