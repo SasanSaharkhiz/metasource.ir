@@ -9,10 +9,10 @@
         "about": "درباره",
         "services": "خدمات",
         "service_items": {
-          "blockchain" :"بلاکچی",
+          "blockchain" :"بلاکچین",
           "platform" : "پلتفرم",
           "website" : "وب سایت",
-          "mobile_app" : "برنامه موبای"
+          "mobile_app" : "برنامه موبایل"
         },
         "project": "پروژه",
         "blog": "بلاگ",
